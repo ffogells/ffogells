@@ -1,16 +1,31 @@
-## Hi there 👋
+# (WIP)
+## Hey!
+### About me
+I'm on GitHub and i do some stuff here.
+## My skills/experiences
+### Languages
+![Native Dutch](badges/dutch.svg)
+![ERK A2 French](badges/french.svg)
+![ERK B1B2 English](badges/english.svg)
+### Programming languages
+![HTML5](badges/html5.svg)
+![CSS3](badges/css3.svg)
+![Javascript]()
+![Python]()
+### Software
+![Visual Studio Code]()
+![Jekyll]()
+![TrueNAS]()
 
-<!--
-**ffogells/ffogells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hardware
+![ASUS](badges/asus.svg)
+![Nvidia]()
+![AMD]()
 
-Here are some ideas to get you started:
+<!-- 
+https://custom-icon-badges.demolab.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://custom-icon-badges.demolab.com/badge/ASUS-000000?logo=asus&style=for-the-badge
+
+https://simpleicons.org/
+ -->
