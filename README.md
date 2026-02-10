@@ -34,6 +34,3 @@ https://custom-icon-badges.demolab.com/badge/ASUS-000000?logo=asus&style=for-the
 
 https://simpleicons.org/
  -->
-
-
- <!-- todo: kleuren niet dezelfde als logo maar zoals de bedrijven het doen zoals ik met nvidia deed -->
