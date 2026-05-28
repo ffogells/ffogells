@@ -19,12 +19,8 @@ I'm on GitHub and i do some stuff here.
 ![TrueNAS](badges/truenas-scale.svg)
 ![Linux](badges/linux.svg)
 ![Git](badges/git.svg)
-![Windows](badges/windows.svg)
 ### Hardware
-![Intel](badges/intel.svg)
-![ASUS](badges/asus.svg)
 ![AMD](badges/amd.svg)
-![Nvidia](badges/nvidia.svg)
 
 
 <!-- 
